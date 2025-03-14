@@ -15,6 +15,7 @@ Through our EDA and statistical analysis, we have discovered the following key i
 3. In addition also come up with **at least 3 recommendations** for your client.
 
 ## Project Documentation
+- **EDA**: available as `eda-king-county.ipynb`
 - **Context, feature description and other relevant information**: Located in the `documentation` folder.
 - **Final presentation**: Available as a PDF in the repository.
 
