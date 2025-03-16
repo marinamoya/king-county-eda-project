@@ -9,9 +9,8 @@ This project is an **Exploratory Data Analysis (EDA)** study conducted during my
 | Erin Robinson   | Buyer | Invest in poor neighborhoods, buy & sell properties, recover costs + small profit, socially responsible |
 
 ## Deliverables
-Through our EDA and statistical analysis, we have discovered the following key insights:
-1. Through EDA/statistical analysis, come up with **at least 3 insights** regarding the overall data. One should be geographical.
 
+1. Through EDA/statistical analysis, come up with **at least 3 insights** regarding the overall data.
 3. In addition also come up with **at least 3 recommendations** for your client.
 
 ## Project Documentation
@@ -88,5 +87,5 @@ This project is for educational purposes as part of a Weiterbildung program in *
 
 ---
 
-**Author:** [Marina Moya Sanchez]  
-**Date:** [20-12-2025]
+**Author:** Marina Moya Sanchez  
+**Date:** 20-12-2024
